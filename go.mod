@@ -33,6 +33,8 @@ require (
 	howett.net/plist v1.0.1
 )
 
+require github.com/NVIDIA/go-nvml v0.12.4-1
+
 require (
 	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
